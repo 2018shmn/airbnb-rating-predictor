@@ -52,7 +52,7 @@ Mean Absolute Error (MAE), Root Mean Square Error (RMSE), R² Score
 Ensemble methods (Gradient Boosting and XGBoost) significantly outperformed baseline models. Gradient Boosting model achieved the highest R2 Score of 0.81 and improved prediction performance by 81% over baseline (mean predictor), outperforming Linear Regression by ~10% in variance explained.
 
 ### Key Predictors: 
-Review Subcategories (strongest), price, availability, host verification, number of listings
+Review subcategories (strongest), price, availability, host verification, number of listings
 
 ## Tech Stack
 ```python

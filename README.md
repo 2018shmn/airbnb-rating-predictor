@@ -15,7 +15,7 @@ Machine learning project that predicts Airbnb accommodation review scores (0-5, 
 
 ## Dataset
 
-20,000+ Airbnb listings with features including:
+28,000+ Airbnb listings with features including:
 
 - **Review Metrics:** Overall rating, cleanliness, location, communication
 - **Host Information:** Response rates, verification, listing count
